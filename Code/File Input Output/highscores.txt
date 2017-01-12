@@ -1,0 +1,4 @@
+Fred,10000
+Barney,15000
+Derek,12000
+Janet,17000
